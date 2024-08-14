@@ -39,9 +39,8 @@ Issued Jul 2024 by DeepLearing.AI
 
 Credential ID: https://coursera.org/verify/L3PFFW8UEX3M
 
-Skills: Machine Learning Technology Data Analysis.
-Random Forest XGBoost Artificial Intelligence (AI) Python
-(Programming Language)
+Skills: Machine Learning Technology. Data Analysis.
+Random Forest. XGBoost. Artificial Intelligence (AI). Python (Programming Language)
 
 
 
@@ -49,9 +48,41 @@ Random Forest XGBoost Artificial Intelligence (AI) Python
 
 Issued Jul 2024 by ESRI
 
-Skills: Technology Data Analysis XGBoost ArcGIS
-Artificial Intelligence (AI) Remote Sensing Geospatial
+Skills: Data Analysis. XGBoost. ArcGIS.
+Artificial Intelligence (AI). Remote Sensing. Geospatial
 Intelligence
+
+
+• Intermediate Machine Learning
+
+Issued Jul 2024 by Kaggle Learn
+
+Credential ID 21221822
+
+Skills: Machine Learning Technology. Data Analysis. Random Forest. XGBoost. Artificial Intelligence (AI) - Python
+(Programming Language)
+
+Specialisations: Data Leakage. XGBoost. Cross-Validations. Pipeline
+
+• Intro to Machine Learning
+
+Issued Jul 2024 by Kaggle Learn 
+
+Credential ID 21221822
+
+Skills: Machine Learning Technology. Data Analysis. Random Forest. XGBoost. Artificial Intelligence (AI). Python
+(Programming Language)
+
+Kaggle Learn User Competition: House Prices Predictions
+
+• Monitoring Evaluation Accountability and
+Learning (MEAL) Essentials Certificate
+
+Issued Jul 2024 by DisasterReady
+
+Credential ID: Cornerstone OnDemand Foundation (www.disasterready.org)
+
+Skills: Technology. Data Analysis. Artificial Intelligence (AI)
 
 
 
