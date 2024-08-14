@@ -16,10 +16,10 @@ Topic: "Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest Nigeria Usin
 
 SKILLS
 
-• Cartography, GIS and AI
+• Cartography, GIS & AI
 
-QGIS | ArcGIS | ML | PostGIS | Geoserver | 
-Git | Microsoft Azure | Linux
+QGIS | ArcGIS | ML | PostGIS | Geoserver | Git 
+| Microsoft Azure | Linux
 
 • Programming Languages
 
