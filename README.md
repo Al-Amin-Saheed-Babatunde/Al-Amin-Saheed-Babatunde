@@ -35,7 +35,7 @@ CERTIFICATIONS
 
 Issued Jul 2024 by DeepLearing.AI
 
-Credential ID L3PFFW8UEX3M
+Credential ID: https://coursera.org/verify/L3PFFW8UEX3M
 
 Skills: Machine Learning Technology Data Analysis.
 Random Forest XGBoost Artificial Intelligence (AI) Python
