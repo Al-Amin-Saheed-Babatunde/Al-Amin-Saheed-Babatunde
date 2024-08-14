@@ -12,3 +12,26 @@ B.Tech. (Hons.), Applied Geology
 
 Topic: "Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest Nigeria Using Machine Learning and Artificial Intelligence"
 
+
+
+SKILLS
+
+• Cartography, GIS and AI
+
+QGIS | ArcGIS | ML | PostGIS | Geoserver | 
+Git | Microsoft Azure | Linux
+
+• Programming Languages
+
+Python | JavaScript | Java | HTML | SQL
+
+
+
+CERTIFICATIONS
+
+
+
+
+
+
+
