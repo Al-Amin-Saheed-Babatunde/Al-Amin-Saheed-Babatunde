@@ -3,6 +3,8 @@ I am one of the brightest brains to have emerged from the Federal University of 
 Currently, I am working on the 'CoastalGuard' project. Benefitting from the Microsoft 'grant' for Startups Founders Hub of over $2,500 credits, this is a Multi-Hazard Early Warning Systems (MHEWS) enhancing coastal community resilience anywhere on Earth. By using advanced ML and real-time data, I aim to predict natural hazards like flooding, drought aand saline water intrusion in susceptible areas on Nigeria's coast including Lagos Islands (Isale Eko) and others. CoastalGuard thus, provide superior predictive accuracy and real-time alerts, empowering proactive mitigation through disaster preparedness in coastal communities, local governments, disaster management agencies and NGOs in my country.
 
 EDUCATION 
+
+
 The Federal University of Technology, Akure (FUTA)
 B.Tech. (Hons.), Applied Geology 
 Grade: 90%
