@@ -31,6 +31,26 @@ Python | JavaScript | Java | HTML | SQL
 
 CERTIFICATIONS
 
+• AI and Disaster Management (Coursera)
+
+Issued Jul 2024 by DeepLearing.AI
+
+Credential ID L3PFFW8UEX3M
+
+Skills: Machine Learning Technology Data Analysis.
+Random Forest XGBoost Artificial Intelligence (AI) Python
+(Programming Language)
+
+
+
+• Getting Started with GIS
+
+Issued Jul 2024 by ESRI
+
+Skills: Technology Data Analysis XGBoost ArcGIS
+Artificial Intelligence (AI) Remote Sensing Geospatial
+Intelligence
+
 
 
 
