@@ -18,8 +18,8 @@ SKILLS
 
 • Cartography, GIS & AI
 
-QGIS | ArcGIS | ML | PostGIS | Geoserver | Git 
-| Microsoft Azure | Linux
+QGIS | ArcGIS | ML | PostGIS | Geoserver 
+| Git | Microsoft Azure | Linux
 
 • Programming Languages
 
