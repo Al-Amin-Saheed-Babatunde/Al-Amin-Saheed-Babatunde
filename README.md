@@ -6,7 +6,7 @@ EDUCATION
 
 
 The Federal University of Technology, Akure (FUTA)
-B.Tech. (Hons.), Applied Geology 
+B.Tech. (Hons.), Applied Geology
 Grade: 90%
 Final Year B.Tech. Project: Distinction
 Project Topic: Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest Nigeria Using Machine Learning and Artificial Intelligence 
