@@ -4,6 +4,8 @@ My name is Al-Amin Saheed Babatunde. I am one of the brightest brains to have em
 
 Currently, I am working on the 'CoastalGuard' project. Benefitting from the Microsoft 'grant' for Startups Founders Hub of over $2,500 credits, this is a Multi-Hazard Early Warning Systems (MHEWS) enhancing coastal community resilience anywhere on Earth. By using advanced ML and real-time data, I aim to predict natural hazards like flooding, drought aand saline water intrusion in susceptible areas on Nigeria's coast including Lagos Islands (Isale Eko) and others. CoastalGuard thus, provide superior predictive accuracy and real-time alerts, empowering proactive mitigation through disaster preparedness in coastal communities, local governments, disaster management agencies and NGOs in my country.
 
+
+
 EDUCATION 
 
 
@@ -18,12 +20,84 @@ Topic: "Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest Nigeria Usin
 
 
 
+WORK EXPERIENCE
+
+• National Space Research & Development Agency (NASRDA)
+Federal Capital Territory, Nigeria (On-site)
+
+Position: Geospatial Analyst (SIWES)
+Internship Duration: Nov 2022 - May 2023 (7 months)
+
+Key Responsibilities
+- I gained proficiency in Geographic Information Systems (GIS) and Remote Sensing techniques, enabling advanced spatial data processing and interpretation.
+- I mastered various GIS software applications, enhancing the capacity to manage, analyze, and visualize complex spatial datasets. 
+- I created compelling maps and graphics that visually represented spatial analyses, leading to informed decision-making.     
+- I developed AI-based models for flood vulnerability mapping, utilizing machine learning algorithms to predict flood-prone areas with high accuracy. 
+
+
+
+PROJECT
+
+• CoastalGuard Early Warning System
+
+Organisation: N-GESC 
+
+i) Description
+Here, I leveraged Microsoft Starter Founder Hub credits to develop CoastalGuard, a comprehensive early warning system for coastal flood risk management. This project integrated advanced geospatial analytics, machine learning algorithms, and real-time data monitoring to predict and mitigate coastal hazards.
+
+ii) Tools & Technologies 
+- Cloud Infrastructure: Microsoft Azure (credits from Microsoft Starter Founder Hub)
+- Data Processing & Analytics: Microsoft Power BI, ArcGIS and Google Earth Engine
+- Early Warning Systems Development: Integrated real-time data from satellite imagery (Sentinel-2A), weather forecasts, and IoT sensors to trigger early alerts.
+- Machine Learning Algorithms: Developed predictive models using Random Forest, XGBoost, and decision trees to forecast coastal flooding.
+- Monitoring & Visualization: Created dynamic dashboards and visualizations to track flood risks and communicate warnings to stakeholders in real-time.
+
+iii) Results
+- Successfully deployed early warning systems in coastal areas vulnerable to flooding, enabling timely interventions and reducing flood-related damages.
+
+
+• ™GPM 500: A Solar-Powered Coastal Flood Risk Drone
+
+Event: Nigeria International Energy Summit (NIES2024)
+
+i) Description 
+I designed the GPM 500, a solar-powered drone engineered to monitor and assess flood risks in coastal regions. This innovation provided real-time data on rainfall, land use, and distance from water bodies, crucial for managing flood risks.
+
+ii) Key Features
+- Solar Power Integration: Ensured sustainable operations for extended flight durations in coastal environments.
+- Advanced Sensors: Equipped with sensors to measure key flood risk parameters such as rainfall intensity, distance from rivers, and land-use patterns.
+- Machine Learning Integration:Real-time data was fed into predictive models (Random Forest, XGBoost) for accurate flood risk assessments.
+
+iii) Results
+- Award-winning innovation at NIES2024, recognized for its contributions to climate adaptation and flood risk management in Nigeria’s coastal regions.
+
+
+• Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest, Nigeria 
+
+Institution: The Federal University of Technology, Akure (FUTA)
+
+Supervisor: Dr. Oluwasanmi Owoseni Joshua (Ph.D.)
+
+i) Description
+My final year project focused on flood vulnerability assessment using advanced machine learning techniques. Applied multiple spatial analysis methods to generate a comprehensive flood risk map for the coastal region of Ilaje, Ondo State.
+
+ii) Methodologies & Techniques
+- Machine Learning Algorithms: I implemented RF and XGBoost for accurate flood prediction, achieving a prediction accuracy of 98.31%.
+- Satellite Data Analysis: I leveraged Sentinel-2A imagery for land use and terrain classification, combined with Frequency Ratio (FR) and Analytical Hierarchy Process (AHP) model to identify key flood drivers of Ilaje and its environs.
+- Flood Risk Mapping: Alongside my ten conditioning factors including TWI, elevation, NDVI, plan curvature, geology and others; I integrated astute geospatial data, including rainfall patterns, proximity to water bodies, and LULC, to map high-risk flood zones.
+
+iii) Results 
+- I developed a highly accurate flood vulnerability map that informed local authorities’ disaster preparedness plans, reducing potential flood impacts in flood-prone areas of Ilaje and its environs.
+
+
+
 SKILLS
 
 • Cartography, GIS & AI
 
 QGIS | ArcGIS | ML | PostGIS | Geoserver 
 | Git
+
 
 • Programming Languages
 
@@ -85,68 +159,5 @@ Credential ID: Cornerstone OnDemand Foundation (www.disasterready.org)
 
 Skills: Technology. Data Analysis. Artificial Intelligence (AI)
 
-
-
-
-EXPERIENCES
-
-• National Space Research & Development Agency (NASRDA)
-Federal Capital Territory, Nigeria (On-site)
-Position: Geospatial Analyst (SIWES)
-Internship Duration: Nov 2022 - May 2023 (7 months)
-
-Key Responsibilities
-- I gained proficiency in Geographic Information Systems (GIS) and Remote Sensing techniques, enabling advanced spatial data processing and interpretation.
-- I mastered various GIS software applications, enhancing the capacity to manage, analyze, and visualize complex spatial datasets. 
-- I created compelling maps and graphics that visually represented spatial analyses, leading to informed decision-making.     
-- I developed AI-based models for flood vulnerability mapping, utilizing machine learning algorithms to predict flood-prone areas with high accuracy. 
-
-
-PROJECTS
-
-• CoastalGuard Early Warning System (with N-GESC)
-
-i) Description
-I leveraged Microsoft Starter Founder Hub credits to develop CoastalGuard, a comprehensive early warning system for coastal flood risk management. This project integrated advanced geospatial analytics, machine learning algorithms, and real-time data monitoring to predict and mitigate coastal hazards.
-
-ii) Tools & Technologies 
-- Cloud Infrastructure: Microsoft Azure (credits from Microsoft Starter Founder Hub)
-- Data Processing & Analytics: Microsoft Power BI, ArcGIS and Google Earth Engine
-- Early Warning Systems Development: Integrated real-time data from satellite imagery (Sentinel-2A), weather forecasts, and IoT sensors to trigger early alerts.
-- Machine Learning Algorithms: Developed predictive models using Random Forest, XGBoost, and decision trees to forecast coastal flooding.
-- Monitoring & Visualization: Created dynamic dashboards and visualizations to track flood risks and communicate warnings to stakeholders in real-time.
-
-iii) Results
-- Successfully deployed early warning systems in coastal areas vulnerable to flooding, enabling timely interventions and reducing flood-related damages.
-
-
-•™GPM 500: A Solar-Powered Coastal Flood Risk Drone
-Event: Nigeria International Energy Summit (NIES2024)
-
-i) Description 
-I designed the GPM 500, a solar-powered drone engineered to monitor and assess flood risks in coastal regions. This innovation provided real-time data on rainfall, land use, and distance from water bodies, crucial for managing flood risks.
-
-ii) Key Features
-- Solar Power Integration: Ensured sustainable operations for extended flight durations in coastal environments.
-- Advanced Sensors: Equipped with sensors to measure key flood risk parameters such as rainfall intensity, distance from rivers, and land-use patterns.
-- Machine Learning Integration:Real-time data was fed into predictive models (Random Forest, XGBoost) for accurate flood risk assessments.
-
-iii) Results
-- Award-winning innovation at NIES2024, recognized for its contributions to climate adaptation and flood risk management in Nigeria’s coastal regions.
-
-• Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest, Nigeria 
-Institution: The Federal University of Technology, Akure (FUTA)
-Supervisor: Dr. Oluwasanmi Owoseni Joshua (Ph.D.)
-
-i) Description
-My final year project focused on flood vulnerability assessment using advanced machine learning techniques. Applied multiple spatial analysis methods to generate a comprehensive flood risk map for the coastal region of Ilaje, Ondo State.
-
-ii) Methodologies & Techniques
-- Machine Learning Algorithms: I implemented RF and XGBoost for accurate flood prediction, achieving a prediction accuracy of 98.31%.
-- Satellite Data Analysis: I leveraged Sentinel-2A imagery for land use and terrain classification, combined with Frequency Ratio (FR) and Analytical Hierarchy Process (AHP) model to identify key flood drivers of Ilaje and its environs.
-- Flood Risk Mapping: Alongside my ten conditioning factors including TWI, elevation, NDVI, plan curvature, geology and others; I integrated astute geospatial data, including rainfall patterns, proximity to water bodies, and LULC, to map high-risk flood zones.
-
-iii) Results 
-- I developed a highly accurate flood vulnerability map that informed local authorities’ disaster preparedness plans, reducing potential flood impacts in flood-prone areas of Ilaje and its environs.
 
 
