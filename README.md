@@ -60,6 +60,8 @@ iii) Results
 
 Event: Nigeria International Energy Summit (NIES2024)
 
+University Recognition: https://www.futa.edu.ng/home/newsd/947
+
 i) Description 
 I designed the GPM 500, a solar-powered drone engineered to monitor and assess flood risks in coastal regions. This innovation provided real-time data on rainfall, land use, and distance from water bodies, crucial for managing flood risks.
 
