@@ -38,7 +38,7 @@ Key Responsibilities
 
 PROJECT
 
-• CoastalGuard Early Warning System
+• CoastalGuard Early Warning Systems
 
 Organisation: N-GESC 
 
@@ -72,7 +72,7 @@ iii) Results
 - Award-winning innovation at NIES2024, recognized for its contributions to climate adaptation and flood risk management in Nigeria’s coastal regions.
 
 
-• Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest, Nigeria 
+• Flood Vulnerability Mapping of Ilaje, Ondo State, Southwest, Nigeria Using Machine Learning and Artificial Intelligence 
 
 Institution: The Federal University of Technology, Akure (FUTA)
 
