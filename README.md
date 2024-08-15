@@ -42,6 +42,8 @@ PROJECT
 
 Organisation: N-GESC 
 
+Funding (Won): $2,500 (USD) Azure Credits
+
 i) Description
 Here, I leveraged Microsoft Starter Founder Hub credits to develop CoastalGuard, a comprehensive early warning system for coastal flood risk management. This project integrated advanced geospatial analytics, machine learning algorithms, and real-time data monitoring to predict and mitigate coastal hazards.
 
@@ -59,6 +61,8 @@ iii) Results
 • ™GPM 500: A Solar-Powered Coastal Flood Risk Drone
 
 Event: Nigeria International Energy Summit (NIES2024)
+
+Funding (Won): N750,000 (Naira)
 
 University Recognition: https://www.futa.edu.ng/home/newsd/947
 
@@ -79,6 +83,13 @@ iii) Results
 Institution: The Federal University of Technology, Akure (FUTA)
 
 Supervisor: Dr. Oluwasanmi Owoseni Joshua (Ph.D.)
+
+Funding (Crowdfunding): $500/$440 (USD) - Exceeded 
+
+Antonio Passarelli: https://www.linkedin.com/posts/antoniopassarelli_airfunding-helping-everyone-with-everyone-activity-7128104640922931203-0f-6?utm_source=share&utm_medium=member_android
+
+Crowdfunding Success (Airfunding.net)
+Project ID: 797817
 
 i) Description
 My final year project focused on flood vulnerability assessment using advanced machine learning techniques. Applied multiple spatial analysis methods to generate a comprehensive flood risk map for the coastal region of Ilaje, Ondo State.
