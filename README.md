@@ -86,9 +86,10 @@ Supervisor: Dr. Oluwasanmi Owoseni Joshua (Ph.D.)
 
 Funding (Crowdfunding): $500/$440 (USD) - Exceeded 
 
-Antonio Passarelli: https://www.linkedin.com/posts/antoniopassarelli_airfunding-helping-everyone-with-everyone-activity-7128104640922931203-0f-6?utm_source=share&utm_medium=member_android
+PayPal Success: Antonio Passarelli (Credit)
+https://www.linkedin.com/posts/antoniopassarelli_airfunding-helping-everyone-with-everyone-activity-7128104640922931203-0f-6?utm_source=share&utm_medium=member_android
 
-Crowdfunding Success (Airfunding)
+Crowdfunding Success: Airfunding
 
 Project ID: 797817
 
