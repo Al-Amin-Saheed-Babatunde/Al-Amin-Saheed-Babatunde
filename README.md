@@ -12,7 +12,7 @@ EDUCATION
 The Federal University of Technology, Akure (FUTA)
 B.Tech. (Hons.), Applied Geology
 
-• Grade: 90%    
+• Grade: 85% 
             
 • Project: Distinction
 
